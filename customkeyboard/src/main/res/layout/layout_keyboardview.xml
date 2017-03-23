@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.dilusense.customkeyboard.MyKeyBoardView
+    android:id="@+id/keyboard_view"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:focusable="true"
+    android:paddingTop="0dp"
+    android:focusableInTouchMode="true"
+    android:keyBackground="@drawable/bg_keyboardview"
+    android:keyPreviewOffset="0dp"
+    android:keyTextColor="#000"
+    android:shadowColor="#fff"
+    android:shadowRadius="0.0"/>

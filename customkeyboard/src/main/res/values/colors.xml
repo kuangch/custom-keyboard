@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="key_ok_color">#1280FA</color>
+    <color name="key_ok_color_pressed">#0174f2</color>
+</resources>
