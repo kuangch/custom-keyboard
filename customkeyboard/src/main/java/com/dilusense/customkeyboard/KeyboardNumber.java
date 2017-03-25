@@ -19,7 +19,7 @@ import java.util.Random;
 
 /**
  * 自定义键盘
- * Created by xuejinwei on 16/3/5.
+ * Created by kuangch on 17/3/10.
  */
 public class KeyboardNumber extends BaseKeyboard{
 

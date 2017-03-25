@@ -38,3 +38,6 @@ uploadArchives {
         }
     }
 }
+
+
+apply from: "bintrayUpload.gradle"

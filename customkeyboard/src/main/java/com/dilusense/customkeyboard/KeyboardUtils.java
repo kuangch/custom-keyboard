@@ -4,7 +4,7 @@ import android.view.View;
 import android.widget.EditText;
 
 /**
- * Created by Thinkpad on 2017/3/23.
+ * Created by kuangch on 2017/3/23.
  */
 public class KeyboardUtils {
 
