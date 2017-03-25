@@ -4,6 +4,11 @@ android 自定义键盘
 
 ## 使用
 
+引用
+``` gradle
+compile 'com.dilusense.android:customkeyboard:1.1'
+```
+
 布局文件引用键盘布局文件
 ``` java
 <include
